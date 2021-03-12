@@ -1,6 +1,10 @@
 # T4A2
 ## Full Stack Application
 
+(Check out the app here!)[https://record-collector-618b2.web.app/]
+
+(Git Repo)[https://github.com/sam-don/T4A2-B]
+
 ### Table of Contents
 
 R1 - [Description of your website, including:](#r1-description-of-your-website)
@@ -14,7 +18,7 @@ R4 - [User Stories](#r4-user-stories)
 R5 - [Wireframes](#r5-wireframes)
 R6 - [Screenshots of your Trello board throughout the duration of the project](#r6-trello-board)
 
-### R1: Description of your website
+### Description of your website
 
 #### Purpose
 
@@ -42,19 +46,19 @@ The primary user of this website is an avid vinyl collector that wishes to keep 
 
 **Hosting: ** AWS
 
-### R2: Dataflow Diagram
+### Dataflow Diagram
 
 ![Dataflow Diagram](docs/dataflow-diagram.drawio.svg)
 
-### R3: Application Architecture Diagram
+### Application Architecture Diagram
 
 ![Application Architecture Diagram](docs/architecture-diagram.drawio.svg)
 
-### R4: User Stories
+### User Stories
 
 ![User Stories](docs/user-stories.png)
 
-### R5: Wireframes
+### ireframes
 
 Desktop - Home Page
 ![Desktop - Home Page](docs/home-page.png)
@@ -68,7 +72,7 @@ Mobile - Home Page
 Mobile - Home Page: Signed In
 ![Mobile - Home Page: Signed In](docs/home-page-mobile-signed-in.png)
 
-### R6: Trello Board
+### Trello Board
 
 ![Trello 1](docs/trello-1.png)
 
