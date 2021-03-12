@@ -62,7 +62,9 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "https://record-collector-618b2.web.app",
+    "https://record-collector-618b2.firebaseapp.com"
 ]
 
 ROOT_URLCONF = 't4a2.urls'
