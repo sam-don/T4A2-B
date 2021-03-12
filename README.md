@@ -1,9 +1,9 @@
 # T4A2
 ## Full Stack Application
 
-(Check out the app here!)[https://record-collector-618b2.web.app/]
+[Check out the app here!](https://record-collector-618b2.web.app/)
 
-(Git Repo)[https://github.com/sam-don/T4A2-B]
+[Git Repo](https://github.com/sam-don/T4A2-B)
 
 ### Table of Contents
 
