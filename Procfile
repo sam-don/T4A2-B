@@ -1,0 +1,1 @@
+web: gunicorn t4a2.wsgi --log-file -
